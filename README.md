@@ -1,2 +1,2 @@
-# My First program in RUST Language
-This is my first program writed in Rust Language.
+# Rust Examples
+This repository will have basic examples of how to use Rust Language.
